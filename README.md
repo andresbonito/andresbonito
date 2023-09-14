@@ -1,9 +1,8 @@
 <p align="center">Olá, bem vindo ao meu perfil, eu sou o André Saad Bonito, tenho 23 anos e sou natural de São Paulo.</p>&nbsp;
- 
- &nbsp;
+
  &nbsp;
 
-## My Skills
+## Habilidades
 
 #### Habilidades Principais:
 
