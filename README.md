@@ -1,7 +1,3 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/andresbonito/andresbonito/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center">Olá, bem vindo ao meu perfil, eu sou o André Saad Bonito, tenho 23 anos e sou natural de São Paulo.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
