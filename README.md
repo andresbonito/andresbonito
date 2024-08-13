@@ -1,4 +1,4 @@
-<p align="center">Olá, bem vindo ao meu perfil, eu sou o André Saad Bonito, tenho 24 anos e sou natural de São Paulo.</p>&nbsp;
+<p align="center">Olá, bem vindo ao meu perfil, eu sou o André Saad Bonito, tenho 24 anos e sou natural de São Paulo. Morando atualmente em Vancouver para um diploma de Analista de Dados na Greystone College.</p>&nbsp;
 
  &nbsp;
 
