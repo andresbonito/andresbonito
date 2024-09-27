@@ -1,5 +1,7 @@
 <p align="center">Olá, bem vindo ao meu perfil, eu sou o André Saad Bonito, tenho 24 anos e sou natural de São Paulo. Morando atualmente em Vancouver para um diploma de Analista de Dados na Greystone College.</p>&nbsp;
 
+<p align="center">Hello, welcome to my profile, my name is Andre Saad Bonito, I'm 24 years old, from Sao Paulo, SP, Brazil. Currently living in Vancouver for a Data Analyst Diploma at Greystone College.</p>&nbsp;
+
  &nbsp;
 
 ## Habilidades
