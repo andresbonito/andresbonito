@@ -1,6 +1,20 @@
-<p align="center">Olá, bem vindo ao meu perfil, eu sou o André Saad Bonito, tenho 25 anos e sou natural de São Paulo. Morando atualmente em Vancouver para um diploma de Analista de Dados na Greystone College.</p>&nbsp;
+<p align="center">👋 Olá, eu sou o André Saad Bonito
+ 
+🎓 Formado em Engenharia de Computação em São Paulo, Brasil, com diploma em Análise de Dados pela Greystone College, em Vancouver, Canadá.
 
-<p align="center">Hello, welcome to my profile, my name is Andre Saad Bonito, I'm 25 years old, from Sao Paulo, SP, Brazil. Currently living in Vancouver for a Data Analyst Diploma at Greystone College.</p>&nbsp;
+💼 Apaixonado por transformar dados em insights acionáveis utilizando Python, SQL e Power BI.
+
+🌱 Atualmente explorando Aprendizado de Máquina e Computação em Nuvem com AWS.
+</p>&nbsp;
+
+<p align="center">👋 Hello, I'm André Saad Bonito
+
+🎓 Computer Engineering graduate from São Paulo, Brazil, with a Data Analytics diploma from Greystone College, Vancouver.
+
+💼 Passionate about transforming data into actionable insights using Python, SQL, and Power BI.
+
+🌱 Currently exploring Machine Learning and Cloud Computing with AWS.
+</p>&nbsp;
 
  &nbsp;
 
