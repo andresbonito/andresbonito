@@ -1,6 +1,6 @@
 <p align="center">👋 Olá, eu sou o André Saad Bonito
  
-🎓 Formado em Engenharia de Computação em São Paulo, Brasil, com diploma em Análise de Dados pela Greystone College, em Vancouver, Canadá.
+🎓 Formado em Engenharia de Computação, no Instituto Maua de Tecnologia em São Paulo, Brasil, com diploma em Análise de Dados pela Greystone College, em Vancouver, Canadá.
 
 💼 Apaixonado por transformar dados em insights acionáveis utilizando Python, SQL e Power BI.
 
@@ -9,7 +9,7 @@
 
 <p align="center">👋 Hello, I'm André Saad Bonito
 
-🎓 Computer Engineering graduate from São Paulo, Brazil, with a Data Analytics diploma from Greystone College, Vancouver.
+🎓 Computer Engineering graduate from Instituto Mauá de Tecnologia in São Paulo, Brazil, with a Data Analytics diploma from Greystone College, Vancouver.
 
 💼 Passionate about transforming data into actionable insights using Python, SQL, and Power BI.
 
